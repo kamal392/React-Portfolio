@@ -11,3 +11,6 @@ At the bottom of every page you will see my GitHub and LinkedIn profile.
 Here is the link to the deployed application: https://kamal392.github.io/react-portfolio/
 
 Here is the link to the GitHub repository: https://github.com/kamal392/react-portfolio.git
+
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/64217018/198365472-29f081f4-d0d9-4c50-82a8-b9232e7d01c6.png">
+
