@@ -8,6 +8,12 @@ and those are "About Me", "Portfolio", "Contact", and "Resume".
 "on click" at resume you will be given an option to download my resume and will be able to see my proficiencies .
 At the bottom of every page you will see my GitHub and LinkedIn profile.
 
+To have this application working please follow this command .
+
+npm install react-scripts
+
+npm start 
+
 Here is the link to the deployed application: https://kamal392.github.io/react-portfolio/
 
 Here is the link to the GitHub repository: https://github.com/kamal392/react-portfolio.git
